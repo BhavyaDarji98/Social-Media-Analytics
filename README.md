@@ -128,7 +128,7 @@ module.exports = {
 
 ```
 social-media-analytics/
-├── client/                  # Frontend (React/Next.js)
+├── frontend/                  # Frontend (React/Next.js)
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
@@ -140,7 +140,7 @@ social-media-analytics/
 │   ├── tailwind.config.js
 │   └── vite.config.js
 │
-├── server/                  # Backend (Node.js/Express)
+├── backend/                  # Backend (Node.js/Express)
 │   ├── src/
 │   │   ├── controllers/
 │   │   ├── routes/
